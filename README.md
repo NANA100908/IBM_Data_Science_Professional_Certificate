@@ -40,3 +40,5 @@ The course is a paid Course but if you can't afford that, then there is **Finaci
 You can apply for that by answering some questions 
 
 Check this answers so you will get a rough idea : [Financial Aid Answers]
+
+If you are unable to view pdf due to any reason please download repository in a zip file . I am sure you will find answers.
